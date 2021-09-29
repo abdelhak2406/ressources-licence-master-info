@@ -20,3 +20,7 @@ https://drive.google.com/drive/mobile/folders/1eCTrKp-MYXwBNffupoyqYS9XmZwNaSvP
 ## Master1 IL:
 
 https://drive.google.com/folderview?id=1UHHxIAahyjUof_iFJsFfBuR7TWPgH0WD
+
+## Master 1 BioInfo
+
+https://drive.google.com/folderview?id=12ml9wFnIt82CjEyjDtslhVoFp8GwaNtD
