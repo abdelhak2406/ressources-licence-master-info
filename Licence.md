@@ -25,7 +25,7 @@ Ressources Licence
 
 ## L2
 
--2018/2019
+- 2018/2019
 	- http://www.mediafire.com/file/y3i0aqve9gawy7v/Informatique_-_L2_-_USTHB.rar/file
 
 
