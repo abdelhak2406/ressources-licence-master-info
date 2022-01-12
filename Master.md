@@ -14,11 +14,11 @@ https://drive.google.com/drive/u/2/mobile/folders/1wCuhYKPYY3Reyp-RK267e7woSB1Td
 https://drive.google.com/folderview?id=1wtWOY5ceTgKYnRa0lpZEPWxq-tyl_bVO
 
 ## Master1 SII:
-- 2020/2021
+* 2020/2021
 https://drive.google.com/drive/mobile/folders/1eCTrKp-MYXwBNffupoyqYS9XmZwNaSvP
-- année non spécifié
-	-https://sii-usthb.github.io/ 
-	-https://github.com/naila-houacine/M1_SII_S1
+* année non spécifié:
+	* https://sii-usthb.github.io/ 
+	* https://github.com/naila-houacine/M1_SII_S1
 
 - 2017
 	https://drive.google.com/drive/folders/13ynAiZbknEcRWxhde2ZEOzyz7dctf0lK
