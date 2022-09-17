@@ -19,6 +19,9 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 
 ### M1-MIV
 
+- **2021-2022**
+    - https://drive.google.com/drive/folders/12kuvfMK2V3xNjGOgO0hrExfbTPJN1KB6
+
 - **2020-2021**
   - https://drive.google.com/folderview?id=1Z-P_0MWQkj2Hh9ApCFSzXMAnlqbQ7GJL
 
@@ -33,6 +36,9 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 ## MIND(Big data)
 
 ### M1-MIND
+
+- **2021-2022**
+    - https://drive.google.com/drive/folders/1GQvbA77X7kngkFVTNLUGqJrWg39bf_8d?usp=sharing
 
 - **2020-2021**
   - https://drive.google.com/drive/u/2/mobile/folders/1wCuhYKPYY3Reyp-RK267e7woSB1TdX5Z?fbclid=IwAR1D48wcD0d2vd5Zh8wav8LypD7TLQPsT8nKDSUfYaYrAqvufQ3C0B3Nf5s
@@ -50,6 +56,9 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 
 ### M1-RSD
 
+- **2021-2022**
+    - https://drive.google.com/drive/mobile/folders/1GHOfgPwAxSKmOPqcLZS7zS5d1Ie1kZMN?usp=sharing
+
 - **2020-2021**
   - https://drive.google.com/folderview?id=1wtWOY5ceTgKYnRa0lpZEPWxq-tyl_bVO
 
@@ -60,6 +69,10 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 ## SII
 
 ### M1-SII
+
+- **2021-2022**
+    - https://drive.google.com/drive/mobile/folders/1G7et7eejrx9mB7VY37QsftQ-fxmXCiFx **OU**
+    - https://s2i.me/
 
 - **2020-2021**
 
@@ -81,17 +94,16 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 
 ### M2-SII
 
-- **2019-2020**
-
-  - https://drive.google.com/drive/u/0/folders/1a9PIUQEGJ7x5nihEwdSrWSi9j0eWud3V
+- **2021-2022**
+  -[ ] soon be added!
 
 - **2020-2021**
-
   - https://drive.google.com/drive/u/0/folders/10XVwhmwC_3itu5fbj7e3Si7-assxhmZS
 
-- **2021-2022**
+- **2019-2020**
+  - https://drive.google.com/drive/u/0/folders/1a9PIUQEGJ7x5nihEwdSrWSi9j0eWud3V
 
-  -[ ] soon be added!
+
 
 ---
 
@@ -100,6 +112,9 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 ## IL
 
 ### M1-IL
+
+- **2021-2022**
+    - https://drive.google.com/drive/mobile/folders/185GqQTlHy_MuB-OdkUXBXCgyym6FOmWi?usp=sharing
 
 - **2020-2021**
   - https://drive.google.com/folderview?id=1UHHxIAahyjUof_iFJsFfBuR7TWPgH0WD
@@ -116,6 +131,9 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 
 ### M1-BioInfo
 
+- **2021-2022**
+    - https://drive.google.com/drive/mobile/folders/1__bQStLGyn5qqhMt9T1GgUczTwizvVyI?usp=sharing
+    
 - **2020-2021**
 
   - https://drive.google.com/folderview?id=12ml9wFnIt82CjEyjDtslhVoFp8GwaNtD
@@ -132,8 +150,10 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 
 ### M1-SSI
 
-- **gist the contains A LOT OF GOOD SSI ressources**
+- **2021-2022**
+    - https://drive.google.com/drive/folders/1i5M33PfXk0iD8xIUU6qX54OlSN6n3sZR?fbclid=IwAR0JcQAGtSwbZTy8jZ8BsNIZYgQRNePvBGBJI5IXTlFBAorrsePI0XsRBK4
 
+- **gist the contains A LOT OF GOOD SSI ressources**
   - https://gist.github.com/cr105ph1nx/33c53eb0e3bd539bf4d904d8b019f196
 
 - **S2 2020-2021**
