@@ -90,12 +90,17 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
   - https://drive.google.com/drive/folders/1sL9YpMyC7RfYnJvqpR1MaRdQpx_Bb4pS
 
 - **2019**
-  - https://drive.google.com/drive/folders/1ujP8xBxeBgnJ-t-_1xxgcApx6WBxF1k0 - _alternatif Pour télécharger Directement(2019)_ - S1 - https://www.mediafire.com/file/zzsm8d53gtnkfmd/M1-SII-S1_2018-19.zip/file - S2 - https://www.mediafire.com/file/78ucmrvxuqulbrd/M1-SII-S2_2018-19.zip/file
+  - https://drive.google.com/drive/folders/1ujP8xBxeBgnJ-t-_1xxgcApx6WBxF1k0 
+  - alternatif Pour télécharger Directement(2019)
+    - S1 
+      - https://www.mediafire.com/file/zzsm8d53gtnkfmd/M1-SII-S1_2018-19.zip/file 
+    - S2
+      - https://www.mediafire.com/file/78ucmrvxuqulbrd/M1-SII-S2_2018-19.zip/file
 
 ### M2-SII
 
 - **2021-2022**
-  -[ ] soon be added!
+  - https://drive.google.com/drive/folders/1DAWaG7yy2dt_1k7rX6Ps4ANhvUMszPX_?usp=sharing
 
 - **2020-2021**
   - https://drive.google.com/drive/u/0/folders/10XVwhmwC_3itu5fbj7e3Si7-assxhmZS
@@ -121,7 +126,8 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 
 ### M2-IL
 
-- [ ] soon
+- **2021-2022**
+  - https://drive.google.com/drive/folders/1lAWJkPkIX0PlXYMdFhEjJLVOJTsql70v 
 
 ---
 
