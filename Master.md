@@ -27,7 +27,8 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 
 ### M2-MIV
 
-- [ ] soon be added
+- **2021-2022**
+  - https://drive.google.com/drive/mobile/folders/1P7ClSksdylt0jHKLhiySMU0hGMRbiOAr?usp=sharing
 
 ---
 
