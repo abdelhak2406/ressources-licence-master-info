@@ -79,14 +79,13 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
   - https://drive.google.com/drive/mobile/folders/1eCTrKp-MYXwBNffupoyqYS9XmZwNaSvP
 
 - **Année non spécifié**
-
   - https://sii-usthb.github.io/
   - https://github.com/naila-houacine/M1_SII_S1
 
 - **2017**
   - https://drive.google.com/drive/folders/13ynAiZbknEcRWxhde2ZEOzyz7dctf0lK
-- **2018**
 
+- **2018**
   - https://drive.google.com/drive/folders/1sL9YpMyC7RfYnJvqpR1MaRdQpx_Bb4pS
 
 - **2019**
@@ -141,12 +140,12 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
     - https://drive.google.com/drive/mobile/folders/1__bQStLGyn5qqhMt9T1GgUczTwizvVyI?usp=sharing
     
 - **2020-2021**
-
   - https://drive.google.com/folderview?id=12ml9wFnIt82CjEyjDtslhVoFp8GwaNtD
 
 ### M2-BioInfo
 
-- [ ] soon
+- **2021-2022**
+  - https://drive.google.com/drive/folders/1r6awRoD4LGrgaqUjWrP1EHQj4Ei2Vv9I
 
 ---
 
