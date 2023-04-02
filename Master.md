@@ -72,8 +72,7 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 ### M1-SII
 
 - **2021-2022**
-    - https://drive.google.com/drive/mobile/folders/1G7et7eejrx9mB7VY37QsftQ-fxmXCiFx **OU**
-    - https://s2i.me/
+    - https://drive.google.com/drive/folders/1QeEnc-7_6STm1egZN6MYKM5liSZti5M-
 
 - **2020-2021**
 
@@ -98,6 +97,9 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
       - https://www.mediafire.com/file/78ucmrvxuqulbrd/M1-SII-S2_2018-19.zip/file
 
 ### M2-SII
+
+- **2021-2022**
+    - https://drive.google.com/drive/folders/1fR73TOIJnzghEwvxpnOgCo12zXvPc37K
 
 - **2021-2022**
   - https://drive.google.com/drive/folders/1DAWaG7yy2dt_1k7rX6Ps4ANhvUMszPX_?usp=sharing
