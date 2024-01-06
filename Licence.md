@@ -1,11 +1,14 @@
 Ressources Licence
 
+# Drive Global
+## L2
+- 2023/2024:
+	- [all sections](https://drive.google.com/drive/u/3/folders/1ms7DMYzwuVL7QVnc38n9J7OlHY9qfZDr)
+   
 # Acad 
 
 ## L2
-- 2023/2024:
-	- Drive Global: ISIL A/B, ACAD A,B,C
-	- https://drive.google.com/drive/u/3/folders/1ms7DMYzwuVL7QVnc38n9J7OlHY9qfZDr
+
 - https://drive.google.com/drive/folders/1_Sz3CLNt2sGc8dHMPapxrx_Xlhordfgn?usp=sharing
 - https://sites.google.com/view/l2-acad-usthb/accueil (S3 commun avec ISIL)
 
