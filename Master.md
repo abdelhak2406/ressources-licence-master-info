@@ -128,12 +128,15 @@ Lien vers différents drives des master informatique de l'usthb, n'hesitez pas a
 
 - **2020-2021**
   - https://drive.google.com/folderview?id=1UHHxIAahyjUof_iFJsFfBuR7TWPgH0WD
+-  **2024-2025**
+ - https://drive.google.com/drive/folders/12zkZ2Umc0_6Zu294XdJczIB5BDMsoPsU
 
 ### M2-IL
 
 - **2021-2022**
   - https://drive.google.com/drive/folders/1lAWJkPkIX0PlXYMdFhEjJLVOJTsql70v 
-
+- **2025-2026**
+  - https://drive.google.com/drive/folders/12zkZ2Umc0_6Zu294XdJczIB5BDMsoPsU
 ---
 
 ---
